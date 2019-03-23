@@ -366,7 +366,7 @@ void GamePlay::printMap()
     cout << "~~~" << YELLOW << "...." << CYAN << "~~" << YELLOW << "....." << GREEN "****************";
     cout << YELLOW << "............." << GREEN "*****" << YELLOW << "....." << CYAN << "~~~" << BLUE << "~~~" << endl;
     cout << "~~~" << CYAN << "~~" << YELLOW << "...." << GREEN << "**********************";
-    cout << YELLOW << "..." << RESET << "[ ]" << BLACKBACK << YELLOW << "...." << GREEN << "**********" << YELLOW << "..." << BLUE << "~~~~~" << endl;
+    cout << YELLOW << "..." << RESET << "[ ]" << YELLOW << "...." << GREEN << "**********" << YELLOW << "..." << BLUE << "~~~~~" << endl;
     cout << "~~~" << CYAN << "~" << YELLOW "......" << GREEN << "*****************************************";
     cout << YELLOW << ".." << CYAN << "~~~" << BLUE << "~~~" << endl;
     cout << "~~" << CYAN << "~" << YELLOW << "........." << GREEN << "****************************************";
