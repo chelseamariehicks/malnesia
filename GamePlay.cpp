@@ -1204,7 +1204,7 @@ void GamePlay::victory()
 //Function prints 100 newlines to clear the visible screen
 void GamePlay::clearScreen()
 {
-	std::cout << std::string(100, '\n');
+    std::cout << std::string(100, '\n');
     cout << endl;
 }
 
